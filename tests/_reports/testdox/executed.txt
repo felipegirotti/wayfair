@@ -1,0 +1,6 @@
+Wayfair\Minesweeper\Business\Board
+ [x] Start game
+ [x] Scenario row 2 column 1
+ [x] Scenario 3 row 1 column 2
+ [x] Scenario 4 end game
+
